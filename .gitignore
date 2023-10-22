@@ -1,6 +1,6 @@
 datasets
 runs
-
+.env
 env
 models
 
